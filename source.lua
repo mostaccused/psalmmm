@@ -18,7 +18,7 @@ local startTime = os.clock()
 repeat wait() until game:IsLoaded()
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WNCRY-WIN/WNCRY-PSLAM/refs/heads/main/TOOLS/adonis.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mostaccused/psalmmm/refs/heads/main/adonis.lua"))()
 
 
 if not LPH_OBFUSCATED then
