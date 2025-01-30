@@ -257,19 +257,20 @@ local HitEffectModule = {
 }
 
 local sounds = {
-    BlackPencil = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/bananapencil.mp3.mp3?raw=true",
-    UWU = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/Uwu.mp3?raw=true",
-    Plooh = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/plooh.mp3?raw=true",
-    Hrntai = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/Hrntai.wav?raw=true",
-    Henta01 = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/henta01.wav?raw=true",
-    Bruh = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/psalms%20bruh%20sample.mp3?raw=true",
-    BoneBreakage = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/psalms%20bone%20breakage.mp3?raw=true",
-    Fein = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/psalms%20highly%20defined%20fein.mp3?raw=true",
-    Unicorn = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/shiny%20unicorn%20for%20dh%20_%20psalms.mp3?raw=true",
-    Kitty = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/Kitty.mp3?raw=true",
-    Bird = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/bird%20chirping%20for%20DH%20_%20psalms%20audio.mp3?raw=true",
-    BirthdayCake = "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/Birthday%20cake%20for%20dh%20_%20psalms.mp3?raw=true", 
-    KenCarson =  "https://github.com/WNCRY-WIN/WNCRY-CRCK/raw/refs/heads/main/ken_carson_-_jennifer_s_body_offici(2).mp3?raw=true"
+    BlackPencil = "https://github.com/mostaccused/psalmmm/raw/refs/heads/main/bananapencil.mp3.mp3?raw=true",
+    BlackPencil = "https://github.com/Shatapmatehabibi/Hitsounds/raw/main/bananapencil.mp3.mp3",
+    UWU = "https://github.com/CongoOhioDog/SoundS/blob/main/Uwu.mp3?raw=true",
+    Plooh = "https://github.com/CongoOhioDog/SoundS/blob/main/plooh.mp3?raw=true",
+    Hrntai = "https://github.com/CongoOhioDog/SoundS/blob/main/Hrntai.wav?raw=true",
+    Henta01 = "https://github.com/CongoOhioDog/SoundS/blob/main/henta01.wav?raw=true",
+    Bruh = "https://github.com/CongoOhioDog/SoundS/blob/main/psalms%20bruh%20sample.mp3?raw=true",
+    BoneBreakage = "https://github.com/CongoOhioDog/SoundS/blob/main/psalms%20bone%20breakage.mp3?raw=true",
+    Fein = "https://github.com/CongoOhioDog/SoundS/blob/main/psalms%20highly%20defined%20fein.mp3?raw=true",
+    Unicorn = "https://github.com/CongoOhioDog/SoundS/blob/main/shiny%20unicorn%20for%20dh%20_%20psalms.mp3?raw=true",
+    Kitty = "https://github.com/CongoOhioDog/SoundS/blob/main/Kitty.mp3?raw=true",
+    Bird = "https://github.com/CongoOhioDog/SoundS/blob/main/bird%20chirping%20for%20DH%20_%20psalms%20audio.mp3?raw=true",
+    BirthdayCake = "https://github.com/CongoOhioDog/SoundS/blob/main/Birthday%20cake%20for%20dh%20_%20psalms.mp3?raw=true", 
+    KenCarson =  "https://github.com/CongoOhioDog/SoundS/blob/main/ken_carson_-_jennifer_s_body_offici(2).mp3?raw=true"
 }
 
 for name, url in pairs(sounds) do
